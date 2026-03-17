@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 630" role="img" aria-label="MKWorks social preview">
+  <defs>
+    <linearGradient id="bg" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#132a4a"/>
+      <stop offset="100%" stop-color="#1d4e89"/>
+    </linearGradient>
+  </defs>
+  <rect width="1200" height="630" fill="url(#bg)"/>
+  <circle cx="1000" cy="120" r="160" fill="#ffffff" fill-opacity="0.06"/>
+  <circle cx="180" cy="540" r="140" fill="#e2ba2d" fill-opacity="0.12"/>
+  <rect x="84" y="84" width="1032" height="462" rx="36" fill="#0d1f37" fill-opacity="0.48" stroke="#ffffff" stroke-opacity="0.14"/>
+  <text x="108" y="210" fill="#f7fafc" font-size="78" font-weight="800" font-family="Sora, 'DM Sans', sans-serif">MKWorks</text>
+  <text x="108" y="294" fill="#e2ba2d" font-size="34" font-weight="700" font-family="'DM Sans', sans-serif">Soluções digitais para empresas</text>
+  <text x="108" y="368" fill="#dbe7f5" font-size="30" font-weight="500" font-family="'DM Sans', sans-serif">
+    <tspan x="108" dy="0">Sites, e-commerce, chatbots, marketing digital, dashboards,</tspan>
+    <tspan x="108" dy="42">sistemas e automações para crescer com mais presença,</tspan>
+    <tspan x="108" dy="42">eficiência e controle.</tspan>
+  </text>
+  <path d="M110 468 L320 400" stroke="#e2ba2d" stroke-width="18" stroke-linecap="square"/>
+  <path d="M302 382 L350 392 L324 438 Z" fill="#ff9808"/>
+</svg>

@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 128 128" role="img" aria-label="MKWorks">
+  <rect width="128" height="128" rx="24" fill="#132a4a"/>
+  <path d="M22 74 L74 36" stroke="#e2ba2d" stroke-width="8" stroke-linecap="square"/>
+  <path d="M68 28 L88 32 L76 48 Z" fill="#ff9808"/>
+  <text x="20" y="88" fill="#ffffff" font-size="38" font-weight="800" font-family="Sora, 'DM Sans', sans-serif">MK</text>
+</svg>
