@@ -20,7 +20,7 @@ if (contactForm) {
       `Necessidade: ${message}`
     ].join("\n");
 
-    const url = `https://wa.me/5521994100715?text=${encodeURIComponent(whatsappMessage)}`;
+    const url = `https://wa.me/5522992012091?text=${encodeURIComponent(whatsappMessage)}`;
     window.open(url, "_blank", "noopener");
   });
 }
